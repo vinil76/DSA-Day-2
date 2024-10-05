@@ -1,0 +1,1 @@
+Welcome to my DSA (Data Structures and Algorithms) journey! This repository is dedicated to documenting my progress as I work on improving my logical reasoning and problem-solving abilities. On Day 2, I focused on simple problems that laid the foundation for more complex concepts.
